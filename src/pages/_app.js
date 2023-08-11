@@ -19,17 +19,15 @@ export default function App({ Component, pageProps }) {
           }}
         >
           <p>
-            <strong>👋 Welcome to your new website!</strong> To customize the
-            code and content of this site,{" "}
+            <strong>👋 Welcome to the new Sheboygan Falls FC Website!</strong>{" "}
             <a
-              href="https://github.com/prismicio-community/nextjs-starter-prismic-multi-page/tree/master/docs"
+              href="/registration"
               target="_blank"
               rel="noreferrer"
               style={{ textDecoration: "underline" }}
             >
-              see the documentation
+              Learn About Getting Started
             </a>
-            . Remove this bar in <code>pages/_app.js</code>.
           </p>
         </div>
       )}
